@@ -1,6 +1,6 @@
 #!/bin/bash
 mkdir -p ~/.google_workspace_mcp/credentials
-cat > ~/.google_workspace_mcp/credentials/default_credentials.json << EOF
+cat > ~/.google_workspace_mcp/credentials/ryan@albertaskylights.ca.json << EOF
 {
   "token": "",
   "refresh_token": "$GOOGLE_WORKSPACE_REFRESH_TOKEN",
